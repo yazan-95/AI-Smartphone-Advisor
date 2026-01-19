@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+{% load static %}
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Smartphone Advisor</title>
+
+    <!-- Main Styles -->
+    <link rel="stylesheet" href="{% static 'recommender_app/css/style.css' %}">
+
+    <!-- Google Model Viewer -->
+    <script type="module" src="https://cdn.jsdelivr.net/npm/@google/model-viewer/dist/model-viewer.min.js"></script>
+
+    <!-- Main JS -->
+    <script defer src="{% static 'recommender_app/js/index.js' %}"></script>
+
+    <!-- Inline Enhancements -->
+    <style>
+        .printer-zone { position: relative; }
+        .printer-overlay {
+            position: absolute;
+            top: 0; left: 0;
+            width: 0%; height: 100%;
+            background: rgba(99, 102, 241, 0.25);
+            pointer-events: none;
+            border-radius: 12px;
+            transition: width 1.2s ease-in-out;
+            z-index: 10;
+        }
+        model-viewer#phone3D {
+            width: 100%;
+            height: 350px;
+            background-color: rgba(255, 255, 255, 0.05);
+            border-radius: 12px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.4);
+            margin-bottom: 20px;
+        }
+
+        /* AI Thinking Timeline */
+        .ai-thinking {
+            background: rgba(10, 15, 40, 0.85);
+            border: 1px solid rgba(99,102,241,0.3);
+            border-radius: 12px;
+            padding: 16px;
+            margin-bottom: 20px;
+            display: none;
+        }
+        .ai-thinking.active { display: block; }
+        .ai-thinking h4 {
+            margin-bottom: 12px;
+            font-size: 14px;
+            color: #c7d2fe;
+            letter-spacing: 0.5px;
+        }
+        .thinking-step {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            font-size: 13px;
+            color: #e5e7eb;
+            opacity: 0.4;
+            margin-bottom: 8px;
+            transition: opacity 0.4s ease;
+        }
+        .thinking-step.active { opacity: 1; }
+        .thinking-dot {
+            width: 8px;
+            height: 8px;
+            border-radius: 50%;
+            background: #6366f1;
+            box-shadow: 0 0 8px rgba(99,102,241,0.9);
+        }
+    </style>
+</head>
+
+<body id="page-body">
+
+<!-- ================= LOADER ================= -->
+<div id="loader">
+    <div class="loader-content">
+        <div class="loader-ring"></div>
+        <div class="loader-text">AI Smartphone Advisor</div>
+        <div class="loader-subtext">Initializing Neural Recommendation Engine...</div>
+    </div>
+</div>
+
+<!-- ================= APP WRAPPER ================= -->
+<div class="ai-app" style="
+    background-image:
+        linear-gradient(rgba(5,10,25,0.88), rgba(5,10,25,0.88)),
+        url('{% static 'images/ai-background2.jpg' %}');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+">
+
+    <!-- ================= HEADER ================= -->
+    <header class="ai-header">
+        <div class="brand">
+            <div class="logo">AI</div>
+            <div class="brand-text">
+                <h1>Smartphone Advisor</h1>
+                <p>Explainable recommendations tailored to your mobile needs.</p>
+            </div>
+        </div>
+        <div class="header-pill">
+            <span class="dot"></span>
+            <span>Prototype • Student Project</span>
+        </div>
+    </header>
+
+    <!-- ================= MAIN ================= -->
+    <main class="ai-main">
+
+        <!-- ========= INPUT PANEL ========= -->
+        <section class="intent-panel">
+
+            <div class="panel-header">
+                <h2>Your Preferences</h2>
+                <p class="panel-subtitle">
+                    Describe the phone you have in mind. The advisor balances price,
+                    performance, and usability.
+                </p>
+            </div>
+
+            <form id="recommendForm" class="smart-form" method="post">
+                {% csrf_token %}
+
+                <!-- Core Requirements -->
+                <div class="form-block">
+                    <h3>Core Requirements</h3>
+                    <div class="grid-2">
+                        <div class="form-group">
+                            <label>Price Budget</label>
+                            <input type="number" name="price" placeholder="e.g. 800" required>
+                        </div>
+                        <div class="form-group">
+                            <label>Preferred Brand <span class="hint">(Required)</span></label>
+                            <input type="text" name="brand" placeholder="Samsung, Apple, Google" required>
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label>Performance Level</label>
+                        <div class="segmented">
+                            <label><input type="radio" name="performance" value="balanced" checked><span>Balanced</span></label>
+                            <label><input type="radio" name="performance" value="performance"><span>High Performance</span></label>
+                            <label><input type="radio" name="performance" value="battery"><span>Battery First</span></label>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Recommendation Mode -->
+                <div class="form-group" style="margin-top: 20px;">
+                    <label>🔥 Recommendation Mode</label>
+                    <select id="modeSelect" name="mode">
+                        <option value="classic" selected>Fast / Local (Classic)</option>
+                        <option value="semantic">Semantic / AI-powered</option>
+                        <option value="satisfaction">Satisfaction / User-focused</option>
+                    </select>
+                </div>
+
+                <!-- Hardware Preferences -->
+                <div class="form-block">
+                    <h3>Hardware Preferences</h3>
+                    <div class="grid-2">
+                        <div class="form-group"><label>Camera (MP)</label><input type="number" name="camera" placeholder="e.g. 50" required></div>
+                        <div class="form-group"><label>Battery (mAh)</label><input type="number" name="battery" placeholder="e.g. 4500" required></div>
+                        <div class="form-group"><label>RAM / Storage (GB)</label><input type="number" name="ram" placeholder="e.g. 8" required></div>
+                        <div class="form-group"><label>Weight (g)</label><input type="number" name="weight" placeholder="e.g. 190" required></div>
+                    </div>
+                </div>
+
+                <!-- Display & Connectivity -->
+                <div class="form-block">
+                    <h3>Display & Connectivity</h3>
+                    <div class="grid-2">
+                        <div class="form-group"><label>Display Size</label><input type="number" step="0.1" name="display_size" placeholder="e.g. 6.3" required></div>
+                        <div class="form-group"><label>Display Type</label><input type="text" name="display_type" placeholder="e.g. AMOLED, OLED, IPS" required></div>
+                    </div>
+                    <div class="grid-2">
+                        <div class="form-group">
+                            <label>5G Support</label>
+                            <select name="5G" required>
+                                <option value="">Select…</option>
+                                <option value="1">Required</option>
+                                <option value="0">Not needed</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label>Release Year</label>
+                            <input type="number" name="release_year" placeholder="e.g. 2022" required>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Natural Language Query -->
+                <div class="form-block">
+                    <h3>Describe your ideal phone (optional)</h3>
+                    <textarea name="nl_query" rows="2" placeholder="e.g. A mid-range Samsung with great low-light camera, strong battery life, and not too heavy."></textarea>
+                </div>
+
+                <button class="ai-btn" type="submit">
+                    <span>Analyze & Recommend</span>
+                </button>
+
+            </form>
+        </section>
+
+        <!-- ========= RESULTS PANEL ========= -->
+        <section class="result-panel">
+
+            <!-- 🧠 AI THINKING TIMELINE -->
+            <div id="aiThinking" class="ai-thinking">
+                <h4>AI Reasoning Process</h4>
+                <div class="thinking-step" data-step="1"><div class="thinking-dot"></div>Parsing user preferences</div>
+                <div class="thinking-step" data-step="2"><div class="thinking-dot"></div>Filtering smartphone candidates</div>
+                <div class="thinking-step" data-step="3"><div class="thinking-dot"></div>Resolving trade-offs (price vs performance)</div>
+                <div class="thinking-step" data-step="4"><div class="thinking-dot"></div>Running recommendation engines</div>
+                <div class="thinking-step" data-step="5"><div class="thinking-dot"></div>Finalizing ranked results</div>
+            </div>
+
+            <div class="ai-explanation printer-zone">
+                <model-viewer
+                    id="phone3D"
+                    src="{% static 'recommender_app/models/base_phone.glb' %}"
+                    auto-rotate
+                    camera-controls
+                    disable-zoom>
+                </model-viewer>
+
+                <div class="printer-overlay" id="printerOverlay"></div>
+
+                <div id="results-list" class="results-list">
+                    <p class="placeholder">Submit your preferences to receive ranked smartphone recommendations.</p>
+                </div>
+            </div>
+
+            <div class="ai-explanation" id="results">
+                <div class="results-header">
+                    <h3>AI Insights</h3>
+                    <span class="results-pill" id="results-summary">No query yet</span>
+                </div>
+            </div>
+
+        </section>
+
+    </main>
+
+    <footer class="ai-footer">
+        <p>Explainable AI • Django • Interactive Reasoning Timeline</p>
+    </footer>
+
+</div>
+
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+    setTimeout(() => {
+        document.body.classList.add('loaded');
+    }, 3500);
+});
+</script>
+
+</body>
+</html>
