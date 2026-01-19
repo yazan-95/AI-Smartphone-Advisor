@@ -1,0 +1,95 @@
+# AI Smartphone Recommender
+
+**Author:** Yazan Waleed
+**Date:** January 2026
+**Project Type:** Graduation Project – Explainable AI Web Application
+
+---
+
+## Table of Contents
+
+1. [Project Overview](#project-overview)
+2. [Features](#features)
+3. [Demo Screenshots](#demo-screenshots)
+4. [Installation & Setup](#installation--setup)
+5. [Usage](#usage)
+6. [Recommender Modes](#recommender-modes)
+7. [Architecture](#architecture)
+8. [Dataset & Diagnostics](#dataset--diagnostics)
+9. [Technical Notes](#technical-notes)
+10. [Future Enhancements](#future-enhancements)
+11. [Credits](#credits)
+
+---
+
+## Project Overview
+
+The **AI Smartphone Recommender** is a web-based application that helps users find the best smartphone based on their preferences.
+It combines:
+
+- Classic feature-based scoring (price, RAM, battery, camera, display, weight, release year)
+- Semantic natural language understanding
+- Satisfaction-driven recommendation (user preference optimization)
+
+The system also provides **explainable recommendations**, showing why each phone was chosen and highlighting strengths and weaknesses.
+
+---
+
+## Features
+
+- Multi-mode recommendation engine:
+  - **Fast / Local (Classic)**
+  - **Semantic AI-powered**
+  - **Satisfaction-focused**
+- **Brand-aware recommendations** with fuzzy matching
+- **Explainability bars** for each feature
+- **Performance-profile weighting** (Balanced / Performance / Battery-first)
+- Cold-start handling for new users
+- Dataset health diagnostics endpoint
+- 3D model viewer for phones (optional)
+- Safe error handling with zero crashes
+- Responsive and visually polished frontend
+
+---
+
+## Demo Screenshots
+
+*You can replace these with real screenshots from your app.*
+
+![Example Screenshot](./docs/screenshots/demo1.png)
+![Example Screenshot](./docs/screenshots/demo2.png)
+
+---
+
+## Installation & Setup
+
+### Prerequisites
+
+- Python 3.10+
+- Django 4.x
+- pipenv or virtualenv recommended
+- Node.js (optional, for frontend assets)
+
+### Steps
+
+```bash
+# Clone repository
+git clone <your-repo-url>
+cd ai-smartphone-recommender
+
+# Create virtual environment
+python -m venv venv
+source venv/bin/activate  # macOS/Linux
+venv\Scripts\activate     # Windows
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Apply migrations
+python manage.py migrate
+
+# Load initial assets (dataset, models, scalers)
+python manage.py loaddata initial_assets.json
+
+# Run the server
+python manage.py runserver

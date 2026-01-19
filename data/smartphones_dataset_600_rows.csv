@@ -1,0 +1,601 @@
+Model,Brand,Price_USD,Release_Year,Camera_MP,Battery_mAh,RAM_GB,Storage_GB,Chipset,Performance_Level,5G,Display_Size_inch,Display_Type,Weight_g
+X 81,Nokia,565,2020,12,5137,8,512,Snapdragon 8 Gen 1,Flagship,Yes,6.59,IPS LCD,217
+Find 51,Oppo,1160,2022,64,4402,16,64,Apple A16 Bionic,Flagship,Yes,6.8,IPS LCD,166
+iPhone 56,Apple,224,2022,200,5561,4,128,Dimensity 900,Mid-range,No,6.39,IPS LCD,156
+iPhone 1,Apple,556,2022,48,5519,6,64,Apple A15 Bionic,High-end,Yes,6.47,IPS LCD,231
+Reno 82,Oppo,580,2019,12,4918,12,256,Snapdragon 695,Mid-range,Yes,6.02,IPS LCD,195
+G 55,Nokia,918,2020,200,4336,12,512,Snapdragon 8 Gen 2,Flagship,Yes,5.59,AMOLED,233
+Galaxy S 33,Samsung,179,2019,48,4113,4,256,Helio G88,Budget,Yes,6.01,IPS LCD,194
+C 28,Realme,551,2019,12,4893,12,256,Helio G88,Budget,Yes,5.6,IPS LCD,179
+C 33,Realme,260,2019,108,4779,6,256,Helio G99,Budget,Yes,5.62,AMOLED,186
+Nova 52,Huawei,622,2024,64,4506,12,128,Dimensity 1080,Mid-range,Yes,6.79,IPS LCD,231
+iPhone 31,Apple,648,2022,200,3805,12,64,Snapdragon 8 Gen 1,Flagship,Yes,6.68,AMOLED,200
+Edge 63,Motorola,544,2024,48,5229,8,64,Helio G99,Budget,Yes,5.85,IPS LCD,181
+GT 25,Realme,330,2023,50,5507,4,256,Apple A15 Bionic,High-end,Yes,6.58,AMOLED,163
+Redmi Note 13,Xiaomi,414,2024,48,4591,8,256,Dimensity 900,Mid-range,Yes,5.98,AMOLED,170
+Galaxy S 40,Samsung,434,2022,64,4405,4,256,Snapdragon 8 Gen 2,Flagship,Yes,5.65,IPS LCD,172
+G 17,Nokia,652,2024,64,3991,6,256,Dimensity 1080,Mid-range,Yes,6.83,IPS LCD,223
+Find 36,Oppo,615,2019,64,4809,6,64,Snapdragon 8 Gen 2,Flagship,Yes,5.92,AMOLED,210
+Mi 84,Xiaomi,1062,2022,108,4533,6,512,Snapdragon 8 Gen 1,Flagship,Yes,6.4,IPS LCD,183
+Nord 74,OnePlus,413,2021,108,4802,6,64,Snapdragon 8 Gen 2,Flagship,Yes,5.82,AMOLED,226
+Nova 41,Huawei,1169,2021,200,3923,6,128,Snapdragon 695,Mid-range,Yes,6.69,OLED,191
+iPhone 49,Apple,726,2022,108,5727,8,64,Snapdragon 778G,High-end,Yes,5.58,OLED,169
+Edge 3,Motorola,1030,2022,108,5809,16,64,Helio G88,Budget,Yes,6.11,OLED,225
+Find 24,Oppo,486,2023,64,4934,6,128,Apple A15 Bionic,High-end,Yes,5.79,IPS LCD,169
+C 54,Realme,1019,2024,200,4958,8,64,Dimensity 1080,Mid-range,Yes,6.29,AMOLED,225
+Galaxy M 67,Samsung,1027,2020,64,4398,16,64,Helio G88,Budget,Yes,6.8,OLED,170
+C 75,Realme,961,2022,64,5686,4,128,Helio G99,Budget,Yes,6.05,IPS LCD,219
+G 2,Motorola,686,2019,50,4976,8,128,Apple A16 Bionic,Flagship,Yes,5.62,IPS LCD,213
+Y 12,Vivo,269,2019,200,4617,6,256,Snapdragon 8 Gen 2,Flagship,Yes,6.51,OLED,186
+G 36,Motorola,429,2021,12,3683,12,64,Snapdragon 778G,High-end,Yes,5.78,IPS LCD,209
+Reno 5,Oppo,388,2021,48,3744,8,64,Helio G99,Budget,Yes,6.01,IPS LCD,204
+Reno 11,Oppo,757,2021,50,5032,4,512,Apple A16 Bionic,Flagship,Yes,5.69,AMOLED,217
+iPhone 10,Apple,731,2020,12,4443,8,64,Snapdragon 8 Gen 2,Flagship,Yes,6.0,OLED,154
+Galaxy S 91,Samsung,1048,2019,200,4186,6,128,Apple A16 Bionic,Flagship,Yes,6.8,OLED,223
+Edge 43,Motorola,1080,2021,48,5085,12,128,Dimensity 900,Mid-range,Yes,5.78,IPS LCD,219
+Galaxy S 11,Samsung,530,2022,12,5952,4,64,Snapdragon 8 Gen 2,Flagship,Yes,6.0,AMOLED,172
+G 72,Nokia,952,2023,12,5604,4,128,Apple A15 Bionic,High-end,Yes,6.5,OLED,209
+Nord 81,OnePlus,1055,2024,48,4792,8,128,Apple A15 Bionic,High-end,Yes,6.64,AMOLED,183
+Reno 71,Oppo,556,2020,50,4306,4,256,Snapdragon 8 Gen 1,Flagship,Yes,6.21,AMOLED,179
+Edge 72,Motorola,183,2024,64,5499,6,256,Snapdragon 8 Gen 1,Flagship,Yes,6.46,AMOLED,162
+Find 65,Oppo,1038,2019,64,3841,12,128,Helio G99,Budget,Yes,6.66,AMOLED,200
+C 7,Realme,193,2024,108,3680,16,256,Snapdragon 8 Gen 1,Flagship,No,5.97,IPS LCD,214
+Y 76,Vivo,976,2019,200,4083,12,128,Snapdragon 8 Gen 1,Flagship,Yes,5.73,OLED,164
+OnePlus 74,OnePlus,830,2019,200,3839,16,512,Helio G88,Budget,Yes,6.08,IPS LCD,229
+P 69,Huawei,452,2020,50,4069,16,128,Dimensity 900,Mid-range,Yes,5.72,AMOLED,201
+P 62,Huawei,330,2023,12,4336,8,128,Snapdragon 8 Gen 1,Flagship,Yes,5.9,IPS LCD,222
+Y 65,Vivo,312,2023,64,4880,12,256,Snapdragon 8 Gen 2,Flagship,Yes,6.7,AMOLED,151
+GT 61,Realme,816,2021,50,5278,8,64,Apple A16 Bionic,Flagship,Yes,5.99,IPS LCD,170
+iPhone 89,Apple,1109,2023,48,4693,12,64,Snapdragon 8 Gen 2,Flagship,Yes,5.82,OLED,155
+C 64,Realme,1063,2019,64,3722,8,512,Snapdragon 8 Gen 1,Flagship,Yes,6.21,OLED,209
+Poco 39,Xiaomi,760,2022,200,4928,4,256,Snapdragon 8 Gen 2,Flagship,Yes,6.06,IPS LCD,214
+Nova 77,Huawei,622,2024,12,4198,6,128,Snapdragon 8 Gen 1,Flagship,Yes,6.78,IPS LCD,197
+OnePlus 13,OnePlus,1144,2023,64,4440,4,64,Apple A15 Bionic,High-end,Yes,6.69,AMOLED,165
+Reno 22,Oppo,287,2021,48,5391,16,128,Helio G99,Budget,Yes,5.61,IPS LCD,161
+P 14,Huawei,975,2020,64,3757,8,64,Apple A15 Bionic,High-end,Yes,6.77,IPS LCD,195
+G 10,Motorola,446,2024,48,4284,8,256,Snapdragon 695,Mid-range,Yes,6.11,OLED,154
+GT 66,Realme,1160,2023,48,4182,12,64,Apple A15 Bionic,High-end,Yes,6.15,OLED,188
+G 64,Nokia,519,2023,64,5700,16,512,Snapdragon 778G,High-end,Yes,5.83,OLED,233
+OnePlus 48,OnePlus,267,2024,48,4638,6,256,Apple A15 Bionic,High-end,Yes,6.42,OLED,151
+G 12,Nokia,989,2021,200,4219,8,128,Snapdragon 695,Mid-range,Yes,6.54,IPS LCD,199
+P 44,Huawei,585,2019,50,5536,8,128,Snapdragon 8 Gen 2,Flagship,Yes,5.74,IPS LCD,182
+Nova 32,Huawei,1060,2021,64,4187,6,256,Dimensity 900,Mid-range,Yes,6.36,AMOLED,205
+iPhone 78,Apple,844,2022,50,4928,16,64,Snapdragon 695,Mid-range,Yes,6.5,OLED,161
+P 27,Huawei,213,2021,12,4431,4,128,Helio G99,Budget,No,6.46,IPS LCD,223
+iPhone 19,Apple,379,2023,200,3511,12,64,Snapdragon 695,Mid-range,Yes,6.32,OLED,227
+iPhone 60,Apple,912,2020,50,4203,12,64,Snapdragon 8 Gen 1,Flagship,Yes,6.27,IPS LCD,223
+Find 21,Oppo,172,2024,50,3698,16,128,Snapdragon 8 Gen 2,Flagship,Yes,5.58,IPS LCD,204
+C 5,Realme,944,2021,48,3645,8,256,Snapdragon 8 Gen 1,Flagship,Yes,5.53,IPS LCD,157
+Nord 61,OnePlus,754,2023,50,5684,12,64,Helio G88,Budget,Yes,6.07,OLED,230
+OnePlus 95,OnePlus,1055,2020,48,5561,6,128,Helio G88,Budget,Yes,6.13,AMOLED,211
+OnePlus 30,OnePlus,815,2020,12,5350,16,256,Dimensity 1080,Mid-range,Yes,6.36,IPS LCD,162
+Find 17,Oppo,1142,2020,50,4830,6,256,Snapdragon 778G,High-end,Yes,6.2,AMOLED,168
+X 39,Vivo,968,2024,108,5621,8,256,Apple A16 Bionic,Flagship,Yes,6.09,OLED,164
+OnePlus 20,OnePlus,545,2021,64,3927,8,256,Apple A16 Bionic,Flagship,Yes,6.63,IPS LCD,207
+Redmi Note 74,Xiaomi,552,2021,48,4437,16,512,Snapdragon 8 Gen 2,Flagship,Yes,5.9,IPS LCD,177
+G 36,Nokia,374,2020,48,5484,4,512,Snapdragon 8 Gen 2,Flagship,Yes,6.44,IPS LCD,191
+P 18,Huawei,959,2019,50,4389,6,256,Helio G88,Budget,Yes,6.55,IPS LCD,232
+Galaxy S 61,Samsung,401,2023,200,4139,8,64,Snapdragon 695,Mid-range,Yes,6.12,OLED,240
+iPhone 59,Apple,593,2020,50,4735,4,256,Helio G88,Budget,Yes,6.26,AMOLED,223
+P 55,Huawei,434,2020,108,4128,4,128,Dimensity 900,Mid-range,Yes,5.77,AMOLED,216
+X 6,Vivo,1065,2020,50,5192,8,256,Dimensity 900,Mid-range,Yes,6.48,AMOLED,213
+OnePlus 21,OnePlus,188,2019,50,5688,4,256,Helio G88,Budget,No,6.14,AMOLED,180
+X 47,Vivo,576,2020,50,5664,12,256,Snapdragon 8 Gen 2,Flagship,Yes,5.75,OLED,179
+Galaxy S 1,Samsung,660,2020,48,3845,16,128,Dimensity 1080,Mid-range,Yes,6.47,AMOLED,235
+OnePlus 45,OnePlus,548,2019,48,5707,4,256,Dimensity 1080,Mid-range,Yes,6.7,OLED,185
+Edge 97,Motorola,151,2023,50,4650,12,512,Dimensity 900,Mid-range,No,6.63,AMOLED,168
+P 79,Huawei,266,2019,200,5063,4,256,Helio G99,Budget,Yes,6.3,AMOLED,173
+OnePlus 40,OnePlus,844,2019,200,3792,6,64,Helio G99,Budget,Yes,5.75,OLED,210
+C 68,Realme,918,2022,48,5518,6,128,Snapdragon 695,Mid-range,Yes,6.71,AMOLED,235
+Redmi Note 8,Xiaomi,794,2021,64,4993,6,512,Apple A15 Bionic,High-end,Yes,5.83,OLED,206
+X 21,Nokia,921,2024,108,3824,16,128,Helio G99,Budget,Yes,6.19,OLED,208
+Y 60,Vivo,834,2019,48,3860,12,512,Snapdragon 778G,High-end,Yes,6.63,AMOLED,185
+G 77,Nokia,212,2019,64,3866,12,128,Snapdragon 8 Gen 1,Flagship,Yes,5.99,AMOLED,164
+Nord 67,OnePlus,1022,2023,108,4531,8,256,Helio G99,Budget,Yes,6.21,OLED,196
+Nova 54,Huawei,236,2022,200,4192,4,64,Apple A16 Bionic,Flagship,No,6.17,OLED,153
+Galaxy S 85,Samsung,564,2022,108,4455,8,512,Helio G88,Budget,Yes,6.67,OLED,227
+P 25,Huawei,1186,2022,200,5887,8,256,Apple A16 Bionic,Flagship,Yes,5.62,OLED,198
+Edge 13,Motorola,729,2021,64,4135,8,64,Dimensity 900,Mid-range,Yes,5.89,OLED,183
+Y 18,Vivo,480,2020,50,4722,12,256,Helio G99,Budget,Yes,5.92,IPS LCD,161
+Redmi Note 41,Xiaomi,261,2021,12,5277,16,128,Snapdragon 778G,High-end,Yes,6.84,IPS LCD,191
+C 44,Realme,771,2024,64,5928,16,512,Apple A16 Bionic,Flagship,Yes,5.57,IPS LCD,185
+Galaxy S 46,Samsung,202,2023,50,5848,8,256,Snapdragon 695,Mid-range,Yes,5.59,OLED,194
+G 94,Motorola,165,2019,200,3949,6,64,Helio G88,Budget,Yes,6.25,OLED,153
+G 75,Nokia,426,2021,200,5147,8,512,Dimensity 900,Mid-range,Yes,6.62,AMOLED,192
+Poco 9,Xiaomi,682,2019,64,3991,16,128,Helio G99,Budget,Yes,5.52,OLED,209
+Redmi Note 37,Xiaomi,308,2024,12,5617,8,256,Snapdragon 8 Gen 1,Flagship,Yes,6.57,AMOLED,207
+GT 80,Realme,1188,2022,64,4547,12,512,Snapdragon 778G,High-end,Yes,6.69,AMOLED,240
+P 14,Huawei,169,2024,64,4966,4,128,Apple A16 Bionic,Flagship,Yes,5.87,IPS LCD,238
+C 78,Realme,563,2021,12,3665,12,64,Snapdragon 8 Gen 2,Flagship,Yes,6.22,OLED,214
+G 37,Motorola,234,2020,50,5713,12,128,Snapdragon 778G,High-end,Yes,5.68,OLED,215
+C 19,Realme,597,2023,108,3567,16,64,Snapdragon 778G,High-end,Yes,6.53,IPS LCD,172
+Galaxy A 76,Samsung,992,2022,12,4638,12,256,Dimensity 1080,Mid-range,Yes,5.97,AMOLED,208
+GT 14,Realme,850,2022,48,3598,16,128,Apple A16 Bionic,Flagship,Yes,6.47,IPS LCD,154
+Galaxy M 86,Samsung,387,2023,64,5096,8,512,Dimensity 1080,Mid-range,Yes,5.55,IPS LCD,223
+Poco 27,Xiaomi,1131,2022,64,4415,16,64,Snapdragon 778G,High-end,Yes,5.85,OLED,202
+GT 68,Realme,525,2020,200,4732,4,256,Helio G99,Budget,Yes,6.14,AMOLED,198
+Reno 94,Oppo,1124,2022,48,4247,8,512,Dimensity 1080,Mid-range,Yes,6.14,IPS LCD,240
+Reno 11,Oppo,1022,2021,50,5462,8,64,Dimensity 900,Mid-range,Yes,6.57,AMOLED,221
+iPhone 33,Apple,467,2021,48,5428,4,128,Snapdragon 695,Mid-range,Yes,6.16,IPS LCD,176
+G 33,Nokia,386,2024,12,4618,6,512,Helio G88,Budget,Yes,6.2,IPS LCD,180
+P 56,Huawei,543,2022,200,4638,12,256,Snapdragon 695,Mid-range,Yes,5.73,OLED,202
+Reno 92,Oppo,692,2020,108,5337,8,256,Apple A16 Bionic,Flagship,Yes,6.81,IPS LCD,217
+iPhone 91,Apple,1096,2019,48,4803,6,64,Dimensity 900,Mid-range,Yes,6.19,IPS LCD,185
+Redmi Note 72,Xiaomi,501,2024,48,3812,12,512,Helio G88,Budget,Yes,6.31,OLED,232
+Redmi Note 20,Xiaomi,725,2020,200,3937,12,128,Dimensity 1080,Mid-range,Yes,6.54,IPS LCD,238
+OnePlus 94,OnePlus,463,2022,48,4837,16,512,Apple A15 Bionic,High-end,Yes,5.54,AMOLED,177
+Find 49,Oppo,168,2020,50,3711,16,256,Snapdragon 8 Gen 1,Flagship,Yes,6.39,OLED,225
+Nord 28,OnePlus,610,2021,12,4427,16,512,Dimensity 900,Mid-range,Yes,5.96,OLED,175
+Galaxy A 11,Samsung,1016,2023,48,4522,12,256,Dimensity 1080,Mid-range,Yes,6.67,OLED,178
+Find 80,Oppo,1143,2021,64,5888,8,512,Helio G99,Budget,Yes,5.8,AMOLED,200
+P 20,Huawei,354,2020,64,5523,4,256,Apple A16 Bionic,Flagship,Yes,5.77,IPS LCD,179
+X 21,Nokia,568,2024,12,4790,4,64,Dimensity 900,Mid-range,Yes,6.83,OLED,216
+Edge 86,Motorola,444,2024,48,3838,4,512,Snapdragon 695,Mid-range,Yes,6.63,AMOLED,170
+C 11,Realme,167,2021,108,4385,12,512,Helio G88,Budget,Yes,5.91,AMOLED,196
+iPhone 97,Apple,1027,2022,50,3706,4,512,Snapdragon 8 Gen 2,Flagship,Yes,5.96,OLED,216
+iPhone 82,Apple,160,2019,50,4191,8,128,Snapdragon 778G,High-end,No,6.02,IPS LCD,166
+iPhone 11,Apple,735,2019,48,4877,6,128,Dimensity 900,Mid-range,Yes,5.5,AMOLED,159
+Redmi Note 52,Xiaomi,1189,2024,12,4157,12,128,Snapdragon 695,Mid-range,Yes,5.53,IPS LCD,217
+X 98,Nokia,1115,2022,64,5584,16,128,Dimensity 900,Mid-range,Yes,6.27,IPS LCD,203
+GT 9,Realme,306,2021,200,5975,16,512,Helio G99,Budget,Yes,5.98,AMOLED,174
+GT 24,Realme,601,2021,64,5957,4,64,Snapdragon 8 Gen 2,Flagship,Yes,5.83,AMOLED,154
+X 60,Nokia,308,2022,200,3649,4,256,Helio G99,Budget,Yes,5.92,IPS LCD,229
+Nova 14,Huawei,701,2019,48,3903,8,128,Helio G88,Budget,Yes,5.9,AMOLED,190
+X 70,Vivo,1061,2023,50,3694,4,256,Helio G99,Budget,Yes,6.69,IPS LCD,187
+G 23,Motorola,689,2019,200,5592,16,256,Dimensity 900,Mid-range,Yes,6.48,IPS LCD,199
+iPhone 64,Apple,320,2020,108,4254,6,256,Dimensity 1080,Mid-range,Yes,5.66,AMOLED,224
+Nord 2,OnePlus,539,2024,12,4287,12,64,Snapdragon 695,Mid-range,Yes,6.05,AMOLED,201
+Galaxy S 77,Samsung,591,2020,200,4638,12,128,Helio G99,Budget,Yes,6.53,AMOLED,189
+G 17,Nokia,1117,2019,48,3969,8,128,Snapdragon 778G,High-end,Yes,6.53,IPS LCD,200
+Galaxy A 6,Samsung,567,2023,108,3807,4,256,Snapdragon 8 Gen 2,Flagship,Yes,6.77,IPS LCD,218
+P 70,Huawei,346,2020,50,4318,6,256,Apple A15 Bionic,High-end,Yes,5.88,OLED,240
+X 64,Nokia,1004,2024,200,4361,12,64,Snapdragon 778G,High-end,Yes,5.84,AMOLED,222
+Nova 43,Huawei,790,2019,12,5753,12,64,Snapdragon 778G,High-end,Yes,6.81,OLED,227
+iPhone 92,Apple,316,2022,64,5584,16,128,Snapdragon 8 Gen 1,Flagship,Yes,6.39,IPS LCD,151
+X 69,Nokia,671,2023,50,4269,4,64,Snapdragon 778G,High-end,Yes,6.6,OLED,195
+Find 98,Oppo,565,2022,12,5022,12,256,Dimensity 1080,Mid-range,Yes,6.71,OLED,186
+Reno 2,Oppo,429,2020,200,4924,12,128,Dimensity 1080,Mid-range,Yes,6.4,OLED,228
+Nova 69,Huawei,1167,2024,50,5253,4,256,Apple A16 Bionic,Flagship,Yes,6.55,AMOLED,224
+C 78,Realme,319,2022,12,5923,6,512,Snapdragon 778G,High-end,Yes,6.9,IPS LCD,234
+Find 84,Oppo,541,2023,50,3648,6,64,Apple A16 Bionic,Flagship,Yes,5.89,AMOLED,224
+Nova 58,Huawei,901,2024,108,5218,6,128,Snapdragon 8 Gen 2,Flagship,Yes,6.11,AMOLED,221
+OnePlus 9,OnePlus,1189,2024,12,5798,4,128,Dimensity 900,Mid-range,Yes,6.86,IPS LCD,152
+Find 47,Oppo,1142,2021,108,5811,16,512,Dimensity 1080,Mid-range,Yes,6.73,AMOLED,178
+Edge 3,Motorola,1032,2022,50,4954,4,64,Apple A15 Bionic,High-end,Yes,6.06,AMOLED,193
+Edge 74,Motorola,880,2020,12,3617,6,64,Apple A16 Bionic,Flagship,Yes,6.48,AMOLED,196
+GT 5,Realme,949,2019,108,3865,12,256,Helio G99,Budget,Yes,6.04,IPS LCD,181
+Poco 78,Xiaomi,916,2020,50,3551,8,512,Snapdragon 778G,High-end,Yes,5.86,IPS LCD,217
+Galaxy A 44,Samsung,292,2021,48,4916,6,512,Apple A15 Bionic,High-end,Yes,6.57,AMOLED,203
+Galaxy S 47,Samsung,390,2022,108,4536,16,64,Apple A16 Bionic,Flagship,Yes,6.55,IPS LCD,156
+G 57,Nokia,251,2022,12,4099,4,512,Apple A15 Bionic,High-end,Yes,6.38,OLED,232
+C 34,Realme,797,2024,12,5239,12,256,Dimensity 900,Mid-range,Yes,6.13,OLED,206
+X 95,Vivo,329,2019,200,3664,8,64,Snapdragon 778G,High-end,Yes,6.03,OLED,222
+iPhone 23,Apple,258,2021,64,4487,8,512,Apple A16 Bionic,Flagship,Yes,6.03,OLED,223
+G 97,Nokia,1017,2023,108,3569,8,128,Apple A15 Bionic,High-end,Yes,5.94,AMOLED,158
+Galaxy S 38,Samsung,374,2021,50,4836,4,512,Helio G99,Budget,Yes,6.16,OLED,219
+Find 47,Oppo,155,2023,108,5711,8,64,Dimensity 1080,Mid-range,Yes,5.82,OLED,162
+Find 65,Oppo,158,2022,12,4386,8,128,Dimensity 1080,Mid-range,Yes,6.02,AMOLED,175
+Redmi Note 51,Xiaomi,972,2022,108,5925,4,256,Apple A15 Bionic,High-end,Yes,6.47,OLED,189
+P 77,Huawei,263,2023,50,5775,16,512,Helio G99,Budget,Yes,6.54,OLED,231
+Reno 64,Oppo,414,2023,50,5899,6,128,Helio G99,Budget,Yes,6.8,OLED,153
+G 82,Motorola,1162,2020,12,4680,4,512,Apple A16 Bionic,Flagship,Yes,6.44,IPS LCD,240
+Galaxy A 82,Samsung,938,2020,50,3608,12,128,Snapdragon 695,Mid-range,Yes,6.43,AMOLED,210
+Galaxy S 27,Samsung,1085,2023,50,5295,16,64,Snapdragon 8 Gen 2,Flagship,Yes,5.93,IPS LCD,211
+C 33,Realme,960,2022,48,5074,12,128,Snapdragon 8 Gen 1,Flagship,Yes,6.23,OLED,196
+iPhone 55,Apple,620,2019,108,4303,16,512,Dimensity 900,Mid-range,Yes,6.56,IPS LCD,176
+G 71,Nokia,787,2022,64,3694,8,64,Snapdragon 8 Gen 2,Flagship,Yes,6.2,IPS LCD,189
+Poco 79,Xiaomi,1051,2024,12,5425,12,512,Snapdragon 8 Gen 2,Flagship,Yes,6.37,AMOLED,200
+X 71,Vivo,1146,2024,108,4960,6,64,Helio G88,Budget,Yes,5.79,AMOLED,165
+Y 11,Vivo,270,2019,200,4155,4,64,Snapdragon 8 Gen 2,Flagship,Yes,6.67,IPS LCD,210
+Poco 21,Xiaomi,654,2024,12,5330,4,512,Dimensity 1080,Mid-range,Yes,6.62,OLED,157
+OnePlus 59,OnePlus,896,2020,108,5872,6,512,Dimensity 900,Mid-range,Yes,5.6,IPS LCD,238
+Nord 88,OnePlus,867,2021,48,4664,4,64,Snapdragon 8 Gen 2,Flagship,Yes,5.85,OLED,232
+Find 56,Oppo,171,2023,48,4543,12,128,Snapdragon 8 Gen 1,Flagship,Yes,6.21,IPS LCD,239
+Reno 72,Oppo,754,2021,64,3709,16,512,Dimensity 900,Mid-range,Yes,6.23,OLED,194
+Redmi Note 52,Xiaomi,893,2024,200,5229,8,64,Snapdragon 695,Mid-range,Yes,6.87,AMOLED,222
+X 95,Vivo,625,2019,50,3748,16,64,Snapdragon 695,Mid-range,Yes,6.58,OLED,196
+iPhone 93,Apple,841,2024,12,3591,6,64,Helio G88,Budget,Yes,6.38,AMOLED,156
+Edge 17,Motorola,1041,2023,108,5882,8,256,Apple A15 Bionic,High-end,Yes,5.85,IPS LCD,190
+Reno 59,Oppo,854,2019,50,3556,8,512,Dimensity 1080,Mid-range,Yes,5.67,AMOLED,153
+Mi 72,Xiaomi,345,2023,64,4876,6,512,Snapdragon 778G,High-end,Yes,6.26,OLED,150
+Find 3,Oppo,404,2021,50,5965,16,128,Helio G88,Budget,Yes,6.51,IPS LCD,168
+Find 7,Oppo,1138,2023,64,5570,4,64,Dimensity 1080,Mid-range,Yes,5.78,AMOLED,188
+Nova 29,Huawei,655,2022,64,4199,8,64,Helio G99,Budget,Yes,6.11,OLED,207
+Mi 35,Xiaomi,721,2020,200,4069,4,512,Dimensity 900,Mid-range,Yes,6.49,AMOLED,225
+G 57,Nokia,860,2019,108,4662,12,64,Snapdragon 695,Mid-range,Yes,5.81,AMOLED,225
+Galaxy S 11,Samsung,925,2022,50,5885,16,256,Helio G88,Budget,Yes,5.8,IPS LCD,223
+iPhone 56,Apple,431,2020,50,5333,4,128,Helio G88,Budget,Yes,5.53,AMOLED,233
+Poco 41,Xiaomi,760,2019,200,4244,4,128,Apple A15 Bionic,High-end,Yes,6.68,AMOLED,152
+Galaxy M 39,Samsung,629,2023,64,3812,8,128,Snapdragon 778G,High-end,Yes,6.53,OLED,229
+OnePlus 25,OnePlus,1000,2024,108,3751,8,128,Snapdragon 8 Gen 1,Flagship,Yes,5.79,AMOLED,220
+Reno 15,Oppo,1026,2021,108,4172,16,256,Snapdragon 778G,High-end,Yes,6.2,IPS LCD,189
+Galaxy A 25,Samsung,357,2022,50,5679,8,64,Snapdragon 778G,High-end,Yes,6.52,IPS LCD,153
+Galaxy A 42,Samsung,1095,2019,64,5164,16,128,Apple A16 Bionic,Flagship,Yes,6.27,IPS LCD,173
+Nova 96,Huawei,692,2024,48,3565,4,512,Helio G99,Budget,Yes,6.0,IPS LCD,192
+G 43,Motorola,1062,2019,48,4160,4,256,Snapdragon 8 Gen 1,Flagship,Yes,5.99,AMOLED,170
+Galaxy A 88,Samsung,749,2022,64,4244,6,64,Snapdragon 8 Gen 1,Flagship,Yes,6.68,OLED,178
+Reno 35,Oppo,1137,2019,64,5795,6,512,Helio G99,Budget,Yes,6.47,IPS LCD,176
+OnePlus 7,OnePlus,1077,2022,64,4027,16,256,Apple A15 Bionic,High-end,Yes,6.26,AMOLED,162
+C 81,Realme,965,2021,50,4466,6,512,Snapdragon 778G,High-end,Yes,6.35,OLED,167
+X 97,Vivo,1030,2023,12,4988,12,256,Helio G99,Budget,Yes,5.98,IPS LCD,221
+Reno 70,Oppo,525,2022,48,4245,8,256,Apple A15 Bionic,High-end,Yes,5.61,IPS LCD,218
+P 68,Huawei,288,2023,200,3622,8,256,Dimensity 1080,Mid-range,Yes,5.64,IPS LCD,201
+Reno 12,Oppo,1121,2022,12,5733,12,128,Dimensity 900,Mid-range,Yes,5.62,AMOLED,195
+C 37,Realme,329,2024,200,3946,6,256,Helio G99,Budget,Yes,6.67,OLED,163
+iPhone 57,Apple,175,2023,200,3881,8,128,Dimensity 1080,Mid-range,Yes,6.76,AMOLED,213
+GT 25,Realme,203,2020,12,4817,4,64,Snapdragon 695,Mid-range,Yes,6.86,AMOLED,239
+Mi 79,Xiaomi,968,2019,48,5366,4,64,Snapdragon 695,Mid-range,Yes,6.18,OLED,228
+Nord 60,OnePlus,1193,2024,64,5565,12,64,Helio G99,Budget,Yes,6.26,AMOLED,213
+Galaxy M 15,Samsung,625,2019,200,4605,8,512,Helio G99,Budget,Yes,5.57,AMOLED,235
+X 27,Vivo,187,2022,50,3829,6,512,Apple A15 Bionic,High-end,No,6.5,IPS LCD,218
+P 44,Huawei,1190,2019,12,3641,16,512,Apple A16 Bionic,Flagship,Yes,5.89,AMOLED,180
+Nord 73,OnePlus,662,2024,108,4603,8,256,Apple A15 Bionic,High-end,Yes,5.84,AMOLED,239
+Nova 90,Huawei,362,2023,64,5364,16,256,Snapdragon 778G,High-end,Yes,6.49,IPS LCD,182
+Redmi Note 79,Xiaomi,236,2024,12,4560,4,512,Helio G88,Budget,No,6.15,AMOLED,161
+Reno 27,Oppo,1190,2022,200,5992,16,512,Apple A16 Bionic,Flagship,Yes,6.57,AMOLED,216
+iPhone 50,Apple,1049,2021,50,5063,8,128,Snapdragon 778G,High-end,Yes,5.7,OLED,225
+C 42,Realme,228,2024,12,4644,8,128,Helio G88,Budget,No,6.86,IPS LCD,238
+C 82,Realme,594,2019,50,4085,8,256,Apple A15 Bionic,High-end,Yes,6.76,OLED,208
+X 21,Nokia,789,2019,50,5067,6,64,Dimensity 1080,Mid-range,Yes,5.6,AMOLED,204
+Nord 50,OnePlus,568,2024,12,5781,6,64,Helio G88,Budget,Yes,6.81,OLED,163
+OnePlus 41,OnePlus,1060,2022,108,4137,8,512,Dimensity 900,Mid-range,Yes,6.83,OLED,239
+iPhone 32,Apple,1074,2023,48,5029,4,64,Snapdragon 778G,High-end,Yes,5.71,AMOLED,204
+Poco 28,Xiaomi,802,2023,200,5369,12,64,Dimensity 900,Mid-range,Yes,5.68,OLED,152
+iPhone 66,Apple,212,2021,108,5456,4,256,Helio G88,Budget,No,6.82,OLED,198
+C 4,Realme,222,2023,12,5846,8,512,Snapdragon 8 Gen 2,Flagship,Yes,5.79,OLED,153
+P 1,Huawei,336,2020,12,4522,4,64,Apple A16 Bionic,Flagship,Yes,5.86,OLED,214
+P 34,Huawei,776,2019,108,3772,6,256,Apple A16 Bionic,Flagship,Yes,6.44,AMOLED,216
+GT 8,Realme,289,2019,12,4422,4,512,Apple A16 Bionic,Flagship,Yes,6.68,OLED,183
+G 51,Nokia,1153,2022,12,5607,8,128,Dimensity 900,Mid-range,Yes,6.85,IPS LCD,174
+G 17,Nokia,782,2023,48,5594,12,512,Helio G88,Budget,Yes,6.82,IPS LCD,166
+G 52,Motorola,415,2019,64,4577,12,256,Dimensity 1080,Mid-range,Yes,6.64,AMOLED,222
+GT 94,Realme,385,2019,12,3533,12,64,Helio G99,Budget,Yes,5.65,AMOLED,196
+X 96,Vivo,891,2020,108,5252,16,128,Helio G99,Budget,Yes,5.99,OLED,184
+Y 55,Vivo,387,2020,12,5003,8,128,Helio G88,Budget,Yes,6.25,IPS LCD,151
+OnePlus 29,OnePlus,358,2024,12,4529,16,512,Helio G99,Budget,Yes,6.72,OLED,225
+Galaxy S 41,Samsung,279,2021,50,5444,8,128,Snapdragon 8 Gen 2,Flagship,Yes,5.96,OLED,213
+OnePlus 60,OnePlus,539,2020,12,3552,16,512,Snapdragon 8 Gen 1,Flagship,Yes,5.91,OLED,182
+C 48,Realme,364,2021,12,4157,16,64,Apple A15 Bionic,High-end,Yes,6.51,OLED,189
+X 86,Vivo,154,2022,50,5200,4,64,Dimensity 1080,Mid-range,No,6.08,IPS LCD,207
+X 18,Vivo,562,2022,50,4045,4,512,Helio G88,Budget,Yes,6.16,IPS LCD,178
+Galaxy A 47,Samsung,586,2021,12,5246,4,128,Dimensity 900,Mid-range,Yes,5.75,OLED,214
+iPhone 61,Apple,492,2022,108,3688,12,512,Dimensity 900,Mid-range,Yes,5.71,AMOLED,240
+Nord 59,OnePlus,747,2021,200,3977,6,512,Snapdragon 8 Gen 1,Flagship,Yes,6.54,IPS LCD,214
+Mi 80,Xiaomi,1085,2019,108,5506,6,512,Snapdragon 778G,High-end,Yes,6.34,AMOLED,181
+G 16,Motorola,604,2024,108,5047,12,512,Snapdragon 8 Gen 1,Flagship,Yes,6.44,OLED,236
+Galaxy A 73,Samsung,449,2021,50,5261,16,128,Helio G88,Budget,Yes,6.08,AMOLED,182
+Nord 23,OnePlus,813,2021,108,5571,16,128,Dimensity 1080,Mid-range,Yes,6.08,OLED,205
+iPhone 99,Apple,399,2023,200,4785,4,512,Apple A15 Bionic,High-end,Yes,6.79,OLED,183
+G 3,Nokia,1112,2023,50,4558,12,512,Helio G99,Budget,Yes,5.92,AMOLED,201
+Find 94,Oppo,692,2020,108,3918,12,512,Snapdragon 8 Gen 2,Flagship,Yes,6.18,AMOLED,174
+Poco 61,Xiaomi,753,2023,200,4675,4,512,Snapdragon 8 Gen 2,Flagship,Yes,6.25,OLED,170
+OnePlus 98,OnePlus,962,2023,108,3560,12,512,Apple A16 Bionic,Flagship,Yes,6.4,AMOLED,185
+Edge 71,Motorola,443,2024,108,4650,8,256,Helio G88,Budget,Yes,6.27,IPS LCD,203
+Nova 84,Huawei,576,2022,108,4557,4,128,Helio G88,Budget,Yes,5.99,OLED,197
+C 48,Realme,501,2023,50,5775,16,128,Helio G99,Budget,Yes,6.59,IPS LCD,236
+Nord 45,OnePlus,644,2023,50,5786,6,128,Apple A15 Bionic,High-end,Yes,5.58,IPS LCD,227
+Poco 79,Xiaomi,963,2019,12,5493,4,512,Snapdragon 8 Gen 2,Flagship,Yes,6.85,AMOLED,175
+Galaxy M 63,Samsung,182,2023,108,5261,8,256,Snapdragon 778G,High-end,Yes,6.35,OLED,180
+Galaxy S 55,Samsung,455,2019,50,3941,12,256,Dimensity 1080,Mid-range,Yes,6.0,OLED,179
+P 72,Huawei,484,2022,108,5636,12,256,Helio G99,Budget,Yes,6.16,OLED,229
+Galaxy S 14,Samsung,879,2021,12,4459,12,128,Apple A16 Bionic,Flagship,Yes,5.58,AMOLED,186
+Edge 12,Motorola,598,2022,12,5739,16,64,Dimensity 1080,Mid-range,Yes,6.35,IPS LCD,214
+Find 73,Oppo,997,2023,108,5549,12,64,Snapdragon 695,Mid-range,Yes,5.73,IPS LCD,190
+Poco 91,Xiaomi,458,2020,48,3500,8,64,Helio G99,Budget,Yes,6.33,IPS LCD,171
+Poco 15,Xiaomi,161,2021,12,5174,8,512,Apple A15 Bionic,High-end,No,6.85,IPS LCD,206
+iPhone 34,Apple,546,2020,12,4420,4,64,Snapdragon 8 Gen 1,Flagship,Yes,5.75,IPS LCD,210
+Nord 14,OnePlus,696,2019,12,3895,12,256,Apple A16 Bionic,Flagship,Yes,6.42,AMOLED,236
+X 28,Nokia,663,2020,50,3503,8,128,Dimensity 900,Mid-range,Yes,6.23,OLED,185
+Poco 5,Xiaomi,238,2021,48,5722,16,128,Apple A15 Bionic,High-end,No,5.84,OLED,228
+C 14,Realme,762,2019,200,5834,12,256,Apple A15 Bionic,High-end,Yes,6.61,IPS LCD,169
+Mi 55,Xiaomi,807,2024,64,3657,6,128,Dimensity 900,Mid-range,Yes,6.44,IPS LCD,170
+Redmi Note 84,Xiaomi,757,2023,64,5390,12,64,Snapdragon 695,Mid-range,Yes,6.78,OLED,183
+C 29,Realme,1118,2022,12,5579,16,64,Snapdragon 695,Mid-range,Yes,6.14,AMOLED,207
+X 83,Nokia,403,2019,48,5422,4,256,Snapdragon 8 Gen 1,Flagship,Yes,6.66,IPS LCD,219
+Galaxy M 45,Samsung,627,2024,200,5276,4,256,Dimensity 900,Mid-range,Yes,5.62,IPS LCD,172
+G 30,Nokia,308,2020,200,5928,8,128,Helio G88,Budget,Yes,6.39,OLED,235
+Find 67,Oppo,536,2024,200,4454,6,512,Apple A15 Bionic,High-end,Yes,5.79,IPS LCD,234
+iPhone 58,Apple,757,2024,200,5023,16,128,Snapdragon 8 Gen 1,Flagship,Yes,5.69,IPS LCD,213
+iPhone 81,Apple,635,2024,48,5260,8,256,Snapdragon 778G,High-end,Yes,5.94,OLED,214
+Find 87,Oppo,696,2020,108,3888,8,128,Snapdragon 8 Gen 1,Flagship,Yes,6.64,IPS LCD,207
+Reno 72,Oppo,914,2023,200,5807,6,128,Apple A15 Bionic,High-end,Yes,5.84,OLED,193
+G 7,Motorola,415,2023,48,4346,6,128,Dimensity 1080,Mid-range,Yes,6.66,IPS LCD,167
+Galaxy S 14,Samsung,295,2020,108,5798,8,512,Snapdragon 695,Mid-range,Yes,6.6,OLED,180
+X 85,Vivo,948,2020,48,4301,4,128,Snapdragon 695,Mid-range,Yes,6.41,AMOLED,202
+P 73,Huawei,845,2019,200,3998,8,512,Snapdragon 8 Gen 2,Flagship,Yes,6.42,AMOLED,195
+iPhone 77,Apple,197,2022,108,5585,6,512,Apple A15 Bionic,High-end,Yes,6.76,AMOLED,233
+iPhone 4,Apple,492,2023,50,5884,12,128,Helio G88,Budget,Yes,6.49,IPS LCD,153
+Find 88,Oppo,341,2021,48,5045,12,256,Snapdragon 8 Gen 1,Flagship,Yes,5.57,IPS LCD,160
+G 62,Motorola,1169,2021,108,5525,8,128,Apple A16 Bionic,Flagship,Yes,5.6,OLED,240
+Reno 42,Oppo,631,2020,12,5598,16,64,Snapdragon 8 Gen 1,Flagship,Yes,5.62,OLED,198
+Nord 96,OnePlus,1080,2019,50,5883,4,256,Helio G88,Budget,Yes,5.67,AMOLED,193
+OnePlus 52,OnePlus,934,2021,50,4206,16,128,Apple A16 Bionic,Flagship,Yes,6.12,IPS LCD,226
+Mi 78,Xiaomi,655,2023,48,5312,8,128,Snapdragon 695,Mid-range,Yes,6.46,IPS LCD,224
+Nord 92,OnePlus,836,2019,12,4109,4,128,Snapdragon 8 Gen 2,Flagship,Yes,5.72,IPS LCD,198
+GT 12,Realme,350,2020,50,4534,8,256,Snapdragon 8 Gen 2,Flagship,Yes,6.29,IPS LCD,218
+Find 35,Oppo,675,2022,64,3681,16,128,Snapdragon 8 Gen 2,Flagship,Yes,6.0,AMOLED,172
+iPhone 20,Apple,668,2019,48,4859,12,512,Snapdragon 8 Gen 1,Flagship,Yes,6.06,OLED,207
+X 68,Vivo,446,2024,64,4448,6,256,Apple A15 Bionic,High-end,Yes,5.95,AMOLED,173
+OnePlus 88,OnePlus,589,2021,50,4753,16,512,Dimensity 900,Mid-range,Yes,6.6,IPS LCD,215
+Galaxy A 97,Samsung,256,2020,108,4563,4,64,Apple A16 Bionic,Flagship,Yes,6.73,IPS LCD,237
+Nord 23,OnePlus,1115,2020,48,5822,6,512,Apple A16 Bionic,Flagship,Yes,6.6,AMOLED,214
+iPhone 30,Apple,1166,2023,108,3632,4,256,Helio G99,Budget,Yes,6.8,AMOLED,212
+G 22,Motorola,518,2021,64,5899,16,512,Snapdragon 778G,High-end,Yes,5.55,OLED,176
+Poco 57,Xiaomi,1002,2020,108,3569,4,64,Helio G99,Budget,Yes,6.2,IPS LCD,206
+Y 68,Vivo,589,2019,48,5575,4,512,Snapdragon 695,Mid-range,Yes,6.44,IPS LCD,199
+Redmi Note 76,Xiaomi,545,2023,200,3535,16,512,Snapdragon 8 Gen 2,Flagship,Yes,6.04,OLED,232
+X 89,Vivo,1083,2023,200,3586,12,512,Apple A16 Bionic,Flagship,Yes,6.82,AMOLED,175
+G 28,Nokia,478,2024,108,4367,8,512,Snapdragon 8 Gen 1,Flagship,Yes,6.5,IPS LCD,176
+OnePlus 21,OnePlus,1096,2024,48,5416,16,256,Snapdragon 778G,High-end,Yes,6.35,AMOLED,193
+X 4,Nokia,209,2020,64,5058,8,512,Snapdragon 8 Gen 2,Flagship,Yes,5.72,IPS LCD,216
+Galaxy M 14,Samsung,902,2019,12,5827,16,256,Apple A15 Bionic,High-end,Yes,5.59,IPS LCD,152
+Reno 99,Oppo,195,2020,12,5103,12,256,Dimensity 1080,Mid-range,No,6.18,IPS LCD,165
+G 9,Nokia,198,2019,64,3863,16,128,Helio G88,Budget,Yes,6.87,OLED,217
+G 98,Motorola,347,2021,50,5301,12,64,Dimensity 1080,Mid-range,Yes,6.67,OLED,181
+Edge 30,Motorola,978,2021,50,4317,4,256,Apple A15 Bionic,High-end,Yes,5.89,IPS LCD,200
+X 97,Vivo,347,2022,64,4619,6,256,Snapdragon 8 Gen 2,Flagship,Yes,6.76,AMOLED,228
+Mi 43,Xiaomi,258,2019,64,3996,6,256,Dimensity 900,Mid-range,Yes,6.21,AMOLED,168
+X 94,Vivo,1130,2019,64,5664,4,512,Helio G99,Budget,Yes,6.01,AMOLED,218
+Galaxy S 31,Samsung,229,2021,48,4551,12,128,Snapdragon 778G,High-end,Yes,6.62,OLED,206
+C 75,Realme,245,2020,12,4380,8,256,Snapdragon 8 Gen 1,Flagship,No,6.05,AMOLED,198
+G 58,Motorola,1160,2021,12,3576,4,256,Helio G88,Budget,Yes,6.49,IPS LCD,184
+iPhone 92,Apple,348,2020,48,3769,4,256,Helio G88,Budget,Yes,5.76,OLED,159
+Find 2,Oppo,643,2021,48,3528,16,512,Snapdragon 695,Mid-range,Yes,6.68,IPS LCD,228
+P 75,Huawei,499,2023,108,4582,16,64,Dimensity 900,Mid-range,Yes,6.29,IPS LCD,193
+OnePlus 27,OnePlus,653,2021,108,5279,12,256,Helio G88,Budget,Yes,5.71,IPS LCD,191
+iPhone 42,Apple,1021,2020,48,4706,16,64,Helio G99,Budget,Yes,6.11,OLED,160
+Y 79,Vivo,1190,2022,12,3859,8,512,Helio G99,Budget,Yes,6.06,AMOLED,239
+X 90,Vivo,195,2024,48,3691,8,512,Dimensity 1080,Mid-range,No,6.89,OLED,208
+Nord 91,OnePlus,300,2021,12,4687,4,256,Apple A15 Bionic,High-end,Yes,5.82,AMOLED,168
+Reno 71,Oppo,896,2019,50,4389,12,512,Dimensity 900,Mid-range,Yes,6.62,OLED,154
+X 24,Nokia,751,2021,48,3910,6,256,Apple A16 Bionic,Flagship,Yes,5.92,IPS LCD,153
+iPhone 72,Apple,676,2022,48,4675,4,64,Apple A15 Bionic,High-end,Yes,6.79,AMOLED,200
+Reno 93,Oppo,334,2022,12,3650,6,64,Helio G88,Budget,Yes,6.8,OLED,199
+iPhone 32,Apple,767,2019,64,5272,16,128,Apple A15 Bionic,High-end,Yes,6.04,IPS LCD,157
+Edge 61,Motorola,643,2022,50,4918,16,128,Helio G88,Budget,Yes,6.52,AMOLED,209
+OnePlus 91,OnePlus,719,2019,108,5562,4,512,Snapdragon 695,Mid-range,Yes,5.8,OLED,216
+C 15,Realme,343,2020,64,5820,12,512,Snapdragon 8 Gen 1,Flagship,Yes,5.71,IPS LCD,204
+Edge 19,Motorola,242,2021,12,4068,4,128,Helio G99,Budget,No,6.13,OLED,235
+G 49,Motorola,1088,2019,12,5256,12,64,Snapdragon 778G,High-end,Yes,6.23,OLED,200
+Galaxy S 29,Samsung,333,2021,108,3574,4,64,Apple A16 Bionic,Flagship,Yes,6.18,AMOLED,214
+Reno 32,Oppo,254,2020,200,5438,12,512,Snapdragon 8 Gen 2,Flagship,Yes,6.07,OLED,195
+Nord 64,OnePlus,286,2024,50,4523,8,128,Apple A15 Bionic,High-end,Yes,6.21,AMOLED,190
+Reno 52,Oppo,412,2023,64,4986,12,128,Snapdragon 8 Gen 1,Flagship,Yes,6.11,AMOLED,172
+Find 41,Oppo,1166,2021,108,3858,8,512,Apple A16 Bionic,Flagship,Yes,6.17,IPS LCD,168
+iPhone 72,Apple,499,2020,12,5786,12,512,Apple A16 Bionic,Flagship,Yes,6.87,IPS LCD,208
+GT 2,Realme,882,2023,200,4382,16,256,Apple A16 Bionic,Flagship,Yes,5.69,AMOLED,221
+iPhone 70,Apple,730,2019,108,5217,8,64,Snapdragon 8 Gen 1,Flagship,Yes,6.74,OLED,237
+GT 13,Realme,505,2019,108,5102,4,64,Dimensity 1080,Mid-range,Yes,5.68,IPS LCD,213
+Edge 21,Motorola,481,2023,12,3940,4,64,Apple A15 Bionic,High-end,Yes,5.65,AMOLED,155
+Galaxy A 92,Samsung,1175,2019,64,5772,16,256,Helio G88,Budget,Yes,5.74,OLED,167
+Galaxy M 13,Samsung,956,2019,200,4601,8,256,Snapdragon 8 Gen 1,Flagship,Yes,6.4,AMOLED,220
+Poco 68,Xiaomi,1055,2020,108,3582,6,128,Dimensity 1080,Mid-range,Yes,6.0,IPS LCD,201
+X 12,Nokia,597,2021,48,4125,8,256,Dimensity 900,Mid-range,Yes,6.1,IPS LCD,198
+X 48,Nokia,223,2019,12,5773,16,64,Helio G88,Budget,No,5.92,AMOLED,169
+G 51,Nokia,843,2023,108,5876,4,128,Apple A15 Bionic,High-end,Yes,5.81,AMOLED,207
+Galaxy A 81,Samsung,450,2021,50,4616,12,512,Apple A16 Bionic,Flagship,Yes,6.42,AMOLED,160
+G 3,Nokia,168,2020,108,3751,6,128,Apple A16 Bionic,Flagship,No,6.38,IPS LCD,185
+Galaxy S 66,Samsung,169,2022,12,4454,16,64,Apple A16 Bionic,Flagship,Yes,6.05,IPS LCD,153
+Y 39,Vivo,286,2019,48,5255,12,128,Dimensity 900,Mid-range,Yes,5.65,AMOLED,231
+Y 21,Vivo,1094,2021,108,4342,4,256,Helio G99,Budget,Yes,6.87,IPS LCD,152
+C 73,Realme,263,2022,48,3692,4,64,Helio G88,Budget,Yes,6.24,IPS LCD,179
+Nord 75,OnePlus,1095,2023,64,3725,16,64,Dimensity 1080,Mid-range,Yes,5.61,OLED,204
+Y 49,Vivo,880,2021,108,4846,12,512,Helio G99,Budget,Yes,6.47,IPS LCD,171
+C 43,Realme,677,2019,50,3750,16,512,Snapdragon 695,Mid-range,Yes,6.53,OLED,212
+Edge 43,Motorola,265,2019,48,5705,8,128,Snapdragon 8 Gen 1,Flagship,Yes,6.03,AMOLED,220
+Reno 35,Oppo,1167,2019,50,5466,4,64,Helio G88,Budget,Yes,5.98,IPS LCD,164
+iPhone 87,Apple,765,2020,64,5577,6,128,Snapdragon 695,Mid-range,Yes,5.88,AMOLED,206
+G 26,Nokia,250,2023,50,4421,8,64,Snapdragon 778G,High-end,Yes,5.83,AMOLED,213
+P 11,Huawei,1037,2020,64,5915,16,128,Apple A16 Bionic,Flagship,Yes,5.53,AMOLED,218
+Nova 72,Huawei,563,2021,200,4884,8,128,Apple A15 Bionic,High-end,Yes,6.52,AMOLED,203
+iPhone 89,Apple,689,2021,12,4035,16,64,Dimensity 1080,Mid-range,Yes,6.81,OLED,157
+Galaxy S 63,Samsung,154,2019,50,4544,16,512,Apple A16 Bionic,Flagship,Yes,5.78,OLED,217
+Galaxy S 43,Samsung,641,2019,64,4922,6,256,Helio G99,Budget,Yes,6.63,AMOLED,179
+iPhone 16,Apple,1088,2022,12,4186,16,256,Apple A16 Bionic,Flagship,Yes,6.41,IPS LCD,219
+P 24,Huawei,250,2024,200,4617,4,256,Helio G88,Budget,No,6.27,IPS LCD,198
+C 77,Realme,858,2019,108,4164,12,256,Snapdragon 778G,High-end,Yes,6.09,AMOLED,174
+X 55,Vivo,590,2022,64,5317,8,512,Helio G99,Budget,Yes,6.47,OLED,204
+GT 92,Realme,287,2020,48,3764,16,64,Snapdragon 8 Gen 2,Flagship,Yes,5.69,OLED,190
+X 5,Nokia,1093,2023,108,5166,12,64,Snapdragon 8 Gen 2,Flagship,Yes,6.2,OLED,211
+Galaxy A 16,Samsung,509,2022,64,4604,12,64,Apple A15 Bionic,High-end,Yes,6.02,OLED,240
+Nova 65,Huawei,258,2020,200,5679,4,512,Apple A16 Bionic,Flagship,Yes,5.8,OLED,191
+OnePlus 5,OnePlus,154,2020,108,5037,4,512,Dimensity 1080,Mid-range,Yes,5.9,AMOLED,219
+Poco 21,Xiaomi,294,2019,200,5847,6,64,Apple A16 Bionic,Flagship,Yes,6.63,OLED,153
+Nova 82,Huawei,506,2023,48,5187,8,256,Snapdragon 8 Gen 1,Flagship,Yes,6.82,OLED,217
+GT 82,Realme,585,2021,50,4203,16,256,Dimensity 900,Mid-range,Yes,6.81,AMOLED,240
+G 96,Nokia,1199,2021,48,3865,6,512,Helio G88,Budget,Yes,5.52,OLED,153
+Reno 22,Oppo,657,2020,64,5876,16,64,Apple A16 Bionic,Flagship,Yes,6.57,AMOLED,181
+C 6,Realme,960,2022,108,5417,16,256,Dimensity 1080,Mid-range,Yes,6.03,OLED,168
+Galaxy S 94,Samsung,173,2021,108,4446,4,512,Helio G99,Budget,Yes,6.73,IPS LCD,207
+Poco 28,Xiaomi,1006,2024,48,3786,4,512,Snapdragon 695,Mid-range,Yes,6.46,IPS LCD,237
+OnePlus 18,OnePlus,806,2023,64,3527,4,128,Helio G99,Budget,Yes,6.89,IPS LCD,206
+Reno 28,Oppo,494,2021,48,4338,6,128,Dimensity 1080,Mid-range,Yes,5.6,AMOLED,157
+Galaxy S 6,Samsung,980,2020,200,5104,6,64,Dimensity 900,Mid-range,Yes,6.79,OLED,162
+Edge 14,Motorola,225,2020,12,4326,4,256,Snapdragon 778G,High-end,Yes,6.14,IPS LCD,225
+G 58,Motorola,991,2020,108,5026,6,256,Dimensity 1080,Mid-range,Yes,6.5,OLED,208
+iPhone 91,Apple,917,2021,50,5172,6,512,Helio G88,Budget,Yes,5.72,IPS LCD,171
+iPhone 18,Apple,1038,2019,108,3547,16,256,Helio G99,Budget,Yes,6.39,OLED,184
+Redmi Note 4,Xiaomi,1030,2023,64,5458,12,512,Dimensity 900,Mid-range,Yes,5.8,AMOLED,229
+OnePlus 21,OnePlus,720,2024,108,4007,4,512,Apple A16 Bionic,Flagship,Yes,6.57,IPS LCD,195
+P 22,Huawei,569,2023,50,4311,12,512,Dimensity 1080,Mid-range,Yes,6.41,AMOLED,225
+Y 69,Vivo,230,2021,108,4852,12,512,Snapdragon 8 Gen 1,Flagship,Yes,6.18,IPS LCD,165
+Redmi Note 67,Xiaomi,233,2021,12,5716,4,128,Dimensity 900,Mid-range,Yes,5.79,AMOLED,207
+Mi 79,Xiaomi,619,2021,64,4168,16,256,Dimensity 1080,Mid-range,Yes,6.54,IPS LCD,175
+OnePlus 13,OnePlus,1137,2020,12,5126,12,128,Snapdragon 8 Gen 1,Flagship,Yes,6.47,AMOLED,201
+Y 29,Vivo,1074,2021,64,4094,8,128,Dimensity 1080,Mid-range,Yes,5.76,AMOLED,156
+Redmi Note 20,Xiaomi,668,2019,200,3684,16,512,Snapdragon 695,Mid-range,Yes,5.8,IPS LCD,171
+Mi 61,Xiaomi,1198,2022,12,5960,4,128,Snapdragon 778G,High-end,Yes,5.7,OLED,223
+G 4,Motorola,714,2021,108,5268,12,64,Dimensity 900,Mid-range,Yes,5.78,OLED,204
+X 90,Nokia,1182,2019,48,5816,4,128,Dimensity 900,Mid-range,Yes,6.15,IPS LCD,153
+OnePlus 85,OnePlus,1123,2020,48,3518,12,128,Snapdragon 695,Mid-range,Yes,5.99,IPS LCD,237
+Galaxy M 1,Samsung,311,2020,108,4794,12,128,Snapdragon 778G,High-end,Yes,6.19,OLED,160
+Poco 52,Xiaomi,886,2021,50,5988,6,64,Snapdragon 8 Gen 2,Flagship,Yes,5.95,OLED,226
+Galaxy S 43,Samsung,1088,2020,108,5714,16,64,Helio G99,Budget,Yes,5.55,IPS LCD,220
+G 26,Nokia,876,2021,48,5014,16,256,Helio G99,Budget,Yes,6.33,AMOLED,234
+Edge 11,Motorola,274,2023,48,5173,6,128,Snapdragon 778G,High-end,Yes,6.88,OLED,182
+OnePlus 11,OnePlus,417,2022,50,4303,6,256,Snapdragon 8 Gen 2,Flagship,Yes,6.22,AMOLED,200
+G 14,Motorola,267,2023,12,4427,4,256,Snapdragon 695,Mid-range,Yes,6.89,AMOLED,178
+Reno 39,Oppo,620,2020,12,5319,4,64,Helio G99,Budget,Yes,6.53,AMOLED,224
+Reno 37,Oppo,894,2020,108,5880,4,512,Snapdragon 8 Gen 2,Flagship,Yes,5.67,IPS LCD,220
+Reno 55,Oppo,1174,2022,200,3898,6,256,Snapdragon 8 Gen 2,Flagship,Yes,6.75,IPS LCD,209
+X 59,Nokia,1123,2021,12,4244,4,128,Dimensity 1080,Mid-range,Yes,5.61,OLED,189
+C 10,Realme,945,2020,50,4428,16,128,Snapdragon 778G,High-end,Yes,6.37,IPS LCD,166
+Find 70,Oppo,341,2020,50,4625,12,512,Snapdragon 8 Gen 2,Flagship,Yes,5.52,OLED,163
+P 93,Huawei,188,2024,12,4070,16,512,Snapdragon 778G,High-end,Yes,5.5,IPS LCD,194
+Galaxy M 69,Samsung,503,2020,108,3943,4,64,Helio G88,Budget,Yes,6.7,OLED,223
+Galaxy A 59,Samsung,554,2019,200,5141,16,256,Dimensity 1080,Mid-range,Yes,6.68,OLED,212
+G 71,Nokia,916,2023,50,3697,4,512,Apple A15 Bionic,High-end,Yes,6.36,IPS LCD,202
+P 49,Huawei,907,2019,64,4198,6,64,Snapdragon 8 Gen 1,Flagship,Yes,6.63,AMOLED,189
+OnePlus 21,OnePlus,962,2020,64,4360,4,64,Dimensity 1080,Mid-range,Yes,6.48,OLED,152
+G 39,Nokia,1174,2021,12,5935,4,512,Snapdragon 695,Mid-range,Yes,6.13,OLED,210
+P 32,Huawei,241,2019,48,5008,12,256,Dimensity 900,Mid-range,Yes,6.01,IPS LCD,204
+Mi 62,Xiaomi,623,2024,12,4773,12,256,Dimensity 900,Mid-range,Yes,5.73,AMOLED,226
+Poco 93,Xiaomi,761,2019,12,3578,8,64,Dimensity 1080,Mid-range,Yes,5.79,OLED,163
+Redmi Note 65,Xiaomi,868,2023,50,4802,4,128,Helio G88,Budget,Yes,5.78,OLED,158
+G 6,Motorola,998,2021,64,5603,6,64,Snapdragon 8 Gen 2,Flagship,Yes,6.64,OLED,227
+C 7,Realme,1008,2020,48,3881,6,256,Helio G88,Budget,Yes,6.66,IPS LCD,234
+Nova 78,Huawei,723,2023,48,3979,6,64,Apple A16 Bionic,Flagship,Yes,6.53,AMOLED,164
+X 63,Nokia,293,2020,108,4373,4,512,Snapdragon 8 Gen 2,Flagship,Yes,5.64,AMOLED,218
+Nord 89,OnePlus,234,2023,108,4140,8,64,Snapdragon 8 Gen 2,Flagship,No,6.18,OLED,174
+X 93,Vivo,281,2019,64,4721,16,128,Dimensity 900,Mid-range,Yes,5.69,OLED,239
+Y 10,Vivo,892,2019,64,3848,6,256,Dimensity 900,Mid-range,Yes,5.63,IPS LCD,160
+X 11,Nokia,253,2021,64,5918,16,256,Helio G88,Budget,Yes,6.9,AMOLED,218
+OnePlus 65,OnePlus,938,2024,64,4716,16,128,Snapdragon 8 Gen 1,Flagship,Yes,5.91,OLED,198
+Redmi Note 38,Xiaomi,1050,2019,64,4281,12,256,Helio G99,Budget,Yes,6.39,IPS LCD,184
+P 66,Huawei,823,2020,50,5945,16,64,Helio G99,Budget,Yes,6.69,AMOLED,211
+GT 6,Realme,1004,2019,108,4086,16,256,Snapdragon 778G,High-end,Yes,6.38,OLED,182
+Y 75,Vivo,502,2021,200,5459,6,64,Apple A15 Bionic,High-end,Yes,5.72,OLED,232
+Nord 43,OnePlus,241,2024,50,5674,4,64,Helio G99,Budget,Yes,6.55,OLED,212
+Find 50,Oppo,766,2023,108,5685,12,256,Apple A15 Bionic,High-end,Yes,6.26,OLED,177
+iPhone 3,Apple,926,2023,200,4752,6,256,Snapdragon 8 Gen 2,Flagship,Yes,6.7,OLED,230
+Find 55,Oppo,1077,2023,200,5886,8,64,Apple A16 Bionic,Flagship,Yes,6.71,OLED,199
+Poco 57,Xiaomi,670,2022,108,5048,8,128,Snapdragon 695,Mid-range,Yes,6.3,AMOLED,201
+Edge 28,Motorola,337,2021,50,4955,12,64,Snapdragon 695,Mid-range,Yes,6.72,IPS LCD,186
+iPhone 96,Apple,564,2022,12,4113,4,128,Apple A16 Bionic,Flagship,Yes,5.52,IPS LCD,217
+Reno 96,Oppo,160,2020,48,3771,6,256,Helio G99,Budget,Yes,6.75,AMOLED,206
+OnePlus 2,OnePlus,421,2022,48,5016,8,256,Apple A15 Bionic,High-end,Yes,6.2,IPS LCD,169
+Find 25,Oppo,1107,2024,50,4405,6,128,Dimensity 900,Mid-range,Yes,6.01,OLED,225
+G 47,Motorola,851,2020,12,5297,4,128,Helio G88,Budget,Yes,5.71,IPS LCD,183
+Galaxy M 5,Samsung,408,2022,48,4791,16,64,Apple A15 Bionic,High-end,Yes,6.71,AMOLED,218
+Find 97,Oppo,432,2023,64,4110,8,64,Dimensity 1080,Mid-range,Yes,5.82,IPS LCD,197
+G 52,Nokia,798,2019,12,5369,8,64,Snapdragon 8 Gen 2,Flagship,Yes,6.64,OLED,221
+Redmi Note 45,Xiaomi,559,2022,64,4870,6,128,Snapdragon 695,Mid-range,Yes,5.76,IPS LCD,151
+Galaxy A 56,Samsung,737,2023,64,4065,6,128,Helio G99,Budget,Yes,6.12,OLED,208
+X 80,Nokia,231,2021,64,3746,6,64,Helio G99,Budget,No,6.62,OLED,177
+Mi 73,Xiaomi,849,2021,108,3980,6,128,Snapdragon 778G,High-end,Yes,6.47,AMOLED,233
+OnePlus 24,OnePlus,339,2023,200,5128,16,512,Apple A16 Bionic,Flagship,Yes,6.46,OLED,231
+G 72,Motorola,364,2021,50,4076,4,64,Helio G88,Budget,Yes,5.5,OLED,217
+OnePlus 95,OnePlus,217,2024,48,3848,16,64,Snapdragon 695,Mid-range,No,6.58,AMOLED,150
+GT 9,Realme,198,2024,48,5791,4,128,Dimensity 900,Mid-range,No,5.7,OLED,170
+Y 30,Vivo,618,2022,50,4839,4,256,Dimensity 1080,Mid-range,Yes,5.86,OLED,165
+OnePlus 83,OnePlus,877,2024,200,4008,16,64,Dimensity 900,Mid-range,Yes,5.95,OLED,176
+C 56,Realme,958,2023,48,5469,6,512,Helio G99,Budget,Yes,6.15,AMOLED,160
+C 13,Realme,682,2021,64,5498,16,64,Dimensity 1080,Mid-range,Yes,5.89,AMOLED,161
+Reno 70,Oppo,334,2020,50,4802,4,512,Apple A15 Bionic,High-end,Yes,6.65,OLED,153
+Nord 57,OnePlus,1127,2019,108,4059,16,128,Dimensity 900,Mid-range,Yes,5.79,AMOLED,225
+Find 63,Oppo,731,2020,64,3668,6,128,Helio G88,Budget,Yes,6.49,AMOLED,195
+Edge 20,Motorola,596,2021,48,4430,12,256,Dimensity 900,Mid-range,Yes,5.85,AMOLED,207
+Galaxy S 55,Samsung,364,2019,50,5815,8,64,Snapdragon 695,Mid-range,Yes,5.91,OLED,188
+C 67,Realme,489,2021,108,4913,6,512,Apple A16 Bionic,Flagship,Yes,5.72,OLED,205
+G 46,Motorola,216,2021,200,3962,8,256,Helio G99,Budget,No,6.42,AMOLED,227
+Nova 27,Huawei,642,2023,12,5307,8,64,Helio G88,Budget,Yes,6.32,OLED,178
+Poco 72,Xiaomi,586,2021,48,5044,6,512,Dimensity 900,Mid-range,Yes,6.03,IPS LCD,240
+iPhone 21,Apple,383,2023,64,5518,16,128,Snapdragon 778G,High-end,Yes,6.47,AMOLED,224
+C 58,Realme,917,2022,48,4684,12,128,Snapdragon 8 Gen 2,Flagship,Yes,6.35,OLED,228
+P 88,Huawei,782,2021,50,4239,6,128,Dimensity 900,Mid-range,Yes,6.4,IPS LCD,178
+Reno 55,Oppo,598,2023,108,5398,8,256,Apple A15 Bionic,High-end,Yes,6.3,IPS LCD,204
+P 21,Huawei,946,2022,12,5241,16,64,Snapdragon 8 Gen 2,Flagship,Yes,6.02,AMOLED,215
+Nord 5,OnePlus,476,2019,12,5771,12,128,Apple A16 Bionic,Flagship,Yes,6.65,IPS LCD,155
+Galaxy M 85,Samsung,709,2022,200,5966,6,512,Helio G99,Budget,Yes,5.93,IPS LCD,206
+Poco 77,Xiaomi,741,2019,64,5656,16,512,Dimensity 1080,Mid-range,Yes,6.44,AMOLED,204
+Find 72,Oppo,184,2024,48,4266,8,512,Helio G99,Budget,Yes,5.85,OLED,214
+X 40,Vivo,945,2022,48,4377,6,512,Helio G88,Budget,Yes,6.44,AMOLED,217
+Reno 93,Oppo,293,2020,48,5104,8,256,Snapdragon 695,Mid-range,Yes,6.3,IPS LCD,240
+X 42,Nokia,458,2021,50,4003,12,64,Snapdragon 695,Mid-range,Yes,6.63,IPS LCD,234
+Galaxy A 79,Samsung,625,2020,50,5547,6,128,Apple A15 Bionic,High-end,Yes,6.71,IPS LCD,180
+Galaxy M 70,Samsung,522,2023,108,4327,4,128,Apple A16 Bionic,Flagship,Yes,6.25,OLED,189
+Edge 34,Motorola,1058,2024,48,3641,6,256,Snapdragon 778G,High-end,Yes,6.85,IPS LCD,223
+X 72,Vivo,1116,2019,64,4638,4,64,Dimensity 1080,Mid-range,Yes,6.58,IPS LCD,170
+Find 84,Oppo,979,2024,200,4937,4,64,Apple A15 Bionic,High-end,Yes,5.64,IPS LCD,226
+Edge 70,Motorola,674,2020,50,5285,16,512,Apple A16 Bionic,Flagship,Yes,5.71,IPS LCD,183
+X 14,Vivo,249,2021,108,4888,6,64,Apple A16 Bionic,Flagship,Yes,6.15,IPS LCD,232
+Poco 18,Xiaomi,542,2020,50,5237,16,512,Dimensity 1080,Mid-range,Yes,5.92,IPS LCD,175
+OnePlus 71,OnePlus,301,2023,50,4271,6,256,Dimensity 900,Mid-range,Yes,6.49,OLED,225
+Redmi Note 45,Xiaomi,523,2020,108,4368,8,64,Apple A16 Bionic,Flagship,Yes,6.44,AMOLED,165
+G 37,Nokia,785,2022,200,5724,8,64,Helio G99,Budget,Yes,6.57,IPS LCD,156
+Y 66,Vivo,220,2020,64,3688,16,512,Dimensity 900,Mid-range,No,5.99,OLED,172
+Reno 7,Oppo,733,2019,48,5300,12,128,Helio G88,Budget,Yes,6.64,OLED,185
+GT 27,Realme,736,2022,108,5173,4,256,Helio G99,Budget,Yes,6.78,AMOLED,232
+Y 21,Vivo,150,2022,12,4695,16,64,Dimensity 1080,Mid-range,No,6.22,OLED,230
+Find 93,Oppo,330,2021,50,4169,8,64,Helio G88,Budget,Yes,6.19,OLED,237
+GT 51,Realme,252,2022,50,4558,6,512,Apple A15 Bionic,High-end,Yes,5.8,IPS LCD,154
+Galaxy S 96,Samsung,745,2024,108,3570,8,64,Helio G99,Budget,Yes,6.57,OLED,163
+C 21,Realme,631,2020,50,5392,12,256,Snapdragon 695,Mid-range,Yes,6.37,AMOLED,164
+Galaxy M 64,Samsung,1077,2022,48,5158,4,128,Helio G99,Budget,Yes,6.16,AMOLED,151
+Edge 77,Motorola,713,2021,200,3611,4,256,Snapdragon 778G,High-end,Yes,5.8,AMOLED,183
+iPhone 55,Apple,1105,2022,48,5146,4,64,Dimensity 1080,Mid-range,Yes,6.16,AMOLED,200
+G 71,Nokia,273,2021,64,4342,12,64,Apple A15 Bionic,High-end,Yes,6.33,IPS LCD,155
+Nord 78,OnePlus,850,2021,50,4840,12,64,Apple A16 Bionic,Flagship,Yes,5.75,IPS LCD,170
+Galaxy S 88,Samsung,524,2024,50,5160,6,64,Dimensity 1080,Mid-range,Yes,6.68,OLED,170
+OnePlus 53,OnePlus,789,2023,48,3770,6,64,Snapdragon 8 Gen 2,Flagship,Yes,6.78,AMOLED,229
+Y 99,Vivo,749,2019,48,3940,8,128,Dimensity 1080,Mid-range,Yes,6.13,OLED,226
+iPhone 79,Apple,956,2022,50,4407,16,64,Snapdragon 695,Mid-range,Yes,6.65,AMOLED,187
+Galaxy S 42,Samsung,787,2021,12,5194,16,512,Snapdragon 695,Mid-range,Yes,6.56,OLED,172
+Galaxy M 16,Samsung,447,2019,64,3553,12,256,Dimensity 900,Mid-range,Yes,6.48,IPS LCD,212
+G 48,Motorola,859,2020,108,4487,8,256,Apple A16 Bionic,Flagship,Yes,5.55,AMOLED,223
+P 49,Huawei,1136,2020,108,3565,12,64,Snapdragon 8 Gen 1,Flagship,Yes,5.97,IPS LCD,153
+OnePlus 47,OnePlus,407,2024,200,3732,6,128,Dimensity 900,Mid-range,Yes,5.59,OLED,220
+Nova 94,Huawei,296,2023,64,3683,12,128,Dimensity 1080,Mid-range,Yes,6.85,AMOLED,218
+Find 73,Oppo,707,2021,108,5233,4,256,Helio G99,Budget,Yes,5.56,AMOLED,220
+Poco 43,Xiaomi,645,2021,12,5800,6,256,Apple A15 Bionic,High-end,Yes,6.74,AMOLED,221
+G 36,Nokia,363,2021,64,3517,12,512,Dimensity 900,Mid-range,Yes,5.55,IPS LCD,228
+Y 46,Vivo,403,2024,48,5555,12,128,Dimensity 1080,Mid-range,Yes,6.1,IPS LCD,191
+X 36,Vivo,1068,2022,108,4388,6,512,Snapdragon 695,Mid-range,Yes,5.67,OLED,198
+G 42,Nokia,1195,2019,12,5275,12,512,Apple A15 Bionic,High-end,Yes,6.78,AMOLED,228
+C 67,Realme,1151,2021,108,4255,8,128,Apple A16 Bionic,Flagship,Yes,6.76,AMOLED,172
+Reno 75,Oppo,819,2019,50,4074,16,256,Snapdragon 695,Mid-range,Yes,5.6,IPS LCD,176
+Nord 25,OnePlus,874,2019,200,5890,6,64,Dimensity 1080,Mid-range,Yes,6.53,OLED,210
+Poco 1,Xiaomi,520,2022,64,5341,4,512,Helio G88,Budget,Yes,6.0,OLED,188
+Galaxy S 97,Samsung,430,2022,64,4330,8,64,Apple A15 Bionic,High-end,Yes,6.8,OLED,154
+GT 59,Realme,327,2019,12,4592,12,128,Dimensity 1080,Mid-range,Yes,5.95,AMOLED,238
+P 15,Huawei,1133,2022,200,3802,16,64,Dimensity 900,Mid-range,Yes,5.72,IPS LCD,174
+G 40,Nokia,902,2019,48,5354,12,256,Helio G99,Budget,Yes,6.21,OLED,228
+Nord 15,OnePlus,900,2023,12,5967,12,64,Apple A16 Bionic,Flagship,Yes,5.9,OLED,184
+Nova 83,Huawei,1056,2024,108,5107,16,128,Dimensity 900,Mid-range,Yes,6.46,OLED,207
+Y 6,Vivo,703,2024,64,5537,8,64,Snapdragon 778G,High-end,Yes,6.27,AMOLED,218
+P 33,Huawei,1189,2021,50,5200,8,128,Snapdragon 8 Gen 1,Flagship,Yes,6.83,AMOLED,209
+GT 74,Realme,623,2023,108,4753,8,256,Helio G88,Budget,Yes,6.76,IPS LCD,162
+G 74,Nokia,565,2023,50,5982,16,256,Dimensity 900,Mid-range,Yes,6.09,IPS LCD,172
+Poco 85,Xiaomi,320,2024,64,4359,6,128,Apple A15 Bionic,High-end,Yes,5.89,OLED,225
+Galaxy S 48,Samsung,659,2023,108,4002,12,512,Snapdragon 8 Gen 1,Flagship,Yes,6.55,OLED,186
+Galaxy S 9,Samsung,815,2021,108,4664,4,512,Apple A16 Bionic,Flagship,Yes,6.51,OLED,183
+Nova 51,Huawei,362,2021,108,4175,4,256,Dimensity 1080,Mid-range,Yes,6.6,AMOLED,236
+Find 39,Oppo,480,2020,200,5370,4,512,Dimensity 1080,Mid-range,Yes,5.76,IPS LCD,155
+iPhone 58,Apple,1197,2023,48,5511,4,256,Snapdragon 778G,High-end,Yes,6.04,AMOLED,158
+Find 58,Oppo,856,2023,12,4164,4,512,Snapdragon 8 Gen 1,Flagship,Yes,6.48,AMOLED,168
+iPhone 32,Apple,318,2022,200,3844,6,64,Apple A16 Bionic,Flagship,Yes,5.78,AMOLED,192
+Nord 39,OnePlus,177,2022,48,4534,6,256,Apple A15 Bionic,High-end,No,6.43,OLED,163
+iPhone 91,Apple,798,2021,48,4255,16,64,Snapdragon 8 Gen 1,Flagship,Yes,6.31,AMOLED,233
+OnePlus 58,OnePlus,365,2022,200,4575,16,512,Snapdragon 8 Gen 2,Flagship,Yes,6.76,OLED,212
+Edge 96,Motorola,697,2021,12,3907,4,256,Apple A16 Bionic,Flagship,Yes,6.56,AMOLED,180
+Find 41,Oppo,981,2021,108,5039,4,256,Snapdragon 8 Gen 1,Flagship,Yes,5.65,AMOLED,186
+Find 3,Oppo,282,2023,50,4865,6,64,Apple A15 Bionic,High-end,Yes,5.86,IPS LCD,193
+Y 15,Vivo,1019,2024,200,4281,8,512,Snapdragon 695,Mid-range,Yes,6.57,IPS LCD,175
+Nord 97,OnePlus,1038,2022,64,5774,16,512,Snapdragon 8 Gen 1,Flagship,Yes,5.91,AMOLED,185
+Find 4,Oppo,408,2022,64,5832,4,128,Helio G99,Budget,Yes,5.99,OLED,181
+iPhone 93,Apple,734,2022,64,4833,12,512,Apple A16 Bionic,Flagship,Yes,6.19,AMOLED,178
+Find 96,Oppo,374,2021,108,4912,16,128,Dimensity 1080,Mid-range,Yes,5.75,OLED,206
+GT 48,Realme,721,2022,200,3794,16,256,Dimensity 900,Mid-range,Yes,6.49,OLED,225
+Galaxy A 8,Samsung,1012,2020,12,5361,6,512,Apple A15 Bionic,High-end,Yes,5.54,OLED,186
+X 75,Vivo,392,2021,108,5895,12,512,Snapdragon 8 Gen 1,Flagship,Yes,5.92,IPS LCD,155
+C 39,Realme,1055,2023,12,3638,12,512,Dimensity 900,Mid-range,Yes,6.4,OLED,160
+OnePlus 20,OnePlus,1129,2023,12,5461,12,512,Snapdragon 8 Gen 2,Flagship,Yes,6.83,OLED,180
+C 71,Realme,207,2019,108,3561,16,128,Apple A16 Bionic,Flagship,No,6.32,IPS LCD,195
+Poco 96,Xiaomi,552,2023,50,4363,6,64,Dimensity 900,Mid-range,Yes,6.7,AMOLED,192
+X 72,Vivo,854,2020,108,5317,16,64,Snapdragon 8 Gen 2,Flagship,Yes,6.69,IPS LCD,189
+X 23,Vivo,710,2022,50,5002,12,256,Snapdragon 8 Gen 2,Flagship,Yes,6.63,AMOLED,157
+Galaxy M 23,Samsung,830,2024,200,4363,6,512,Snapdragon 778G,High-end,Yes,5.88,AMOLED,233
+C 77,Realme,1164,2021,50,5946,12,64,Apple A16 Bionic,Flagship,Yes,6.37,OLED,206
+Edge 42,Motorola,150,2022,48,4561,16,512,Snapdragon 695,Mid-range,Yes,5.71,IPS LCD,189
+X 63,Nokia,1011,2021,50,4943,8,512,Apple A15 Bionic,High-end,Yes,6.8,OLED,159
+Find 33,Oppo,507,2024,12,3808,6,128,Dimensity 1080,Mid-range,Yes,5.71,IPS LCD,206
